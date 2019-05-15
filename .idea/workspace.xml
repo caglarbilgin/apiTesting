@@ -6,6 +6,8 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/features/GetPost.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/GetPost.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/util/BDDStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/BDDStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/GetPostSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/GetPostSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/BDDStyle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/BDDStyle.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,27 +30,27 @@
         <counts>
           <entry key="class" value="6" />
           <entry key="feature" value="1" />
-          <entry key="java" value="7" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="Cucumber" value="1" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="feature" value="243" />
-          <entry key="java" value="1362" />
+          <entry key="feature" value="449" />
+          <entry key="java" value="1640" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="243" />
-          <entry key="JAVA" value="1362" />
+          <entry key="Cucumber" value="449" />
+          <entry key="JAVA" value="1640" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
@@ -59,30 +61,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/features/GetPost.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-              </folding>
+              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/util/BDDStyle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="331">
+              <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,17 +100,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getExample</find>
+      <find>val</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/steps/BDDStyle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/util/BDDStyle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/GetPost.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/util/BDDStyle.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java" />
       </list>
     </option>
@@ -202,7 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557954626289" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557959031410" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -257,34 +264,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__GetPost - 2019.05.15 at 23h 43m 02s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 00h 59m 37s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.15 at 23h 43m 06s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 02m 12s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.15 at 23h 44m 32s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 02m 29s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.15 at 23h 48m 40s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 03m 12s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.15 at 23h 51m 41s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 03m 29s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.15 at 23h 57m 57s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 03m 59s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.16 at 00h 00m 46s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 04m 28s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.16 at 00h 01m 42s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 05m 33s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.16 at 00h 01m 56s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 06m 17s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__GetPost - 2019.05.16 at 00h 02m 44s.xml">
+    <history-entry file="Feature__GetPost - 2019.05.16 at 01h 15m 53s.xml">
       <configuration name="Feature: GetPost" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
@@ -292,7 +299,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21611722" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21611722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,7 +308,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49387756" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23367347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,7 +331,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.3.0/rest-assured-3.3.0.jar!/io/restassured/internal/ResponseParserRegistrar.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -370,30 +376,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/GetPost.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="45">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/util/BDDStyle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/GetPost.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/GetPostSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/util/BDDStyle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        <state relative-caret-position="331">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
